@@ -6,3 +6,7 @@
 	path = ghost/core/content/themes/source
 	url = ../../TryGhost/Source.git
 	ignore = all
+[submodule "ghost/core/content/themes/shapeit"]
+	path = ghost/core/content/themes/shapeit
+	url = https://github.com/Shapeitsite/Source.git
+        ignore = all
